@@ -1,5 +1,4 @@
 # barbeariaAlura
-
 Nesta aula, aprendi:
 
 A mexer na apresentação dos textos
