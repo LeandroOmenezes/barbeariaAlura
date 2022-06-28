@@ -296,11 +296,18 @@ footer {
 
     .formulario {
         width: 100%;
+        margin: 15px;
     }
 
     footer {
         width: auto;
     }
   
-}
+    .produtos {
+        justify-content: space-around;
+        display:flex;
+        flex-direction: column;
+        margin: 30px;
+    }
 
+}
